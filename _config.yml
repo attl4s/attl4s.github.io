@@ -1,0 +1,23 @@
+title: ATTL4S
+owner: Daniel López Jiménez
+email: 
+description: Freshly Squeezed
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+language: en
+twitter_username: danilj94
+github_username: attl4s
+disqus_username: 
+# Build settings
+markdown: kramdown
+theme: minima
+
+permalink: /:year/:month/:day/:title/
+
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle
+excerpt_separator: <!--more-->
