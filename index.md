@@ -24,6 +24,6 @@ title: Blog
 * [Video (English)](https://vimeo.com/502507556)
 
 **You do (not) Understand Kerberos**
-* [Slides (WIP)](https://attl4s.github.io/assets/pdf/You_do_(not)_Understand_Kerberos.pdf)
+* [Slides](https://attl4s.github.io/assets/pdf/You_do_(not)_Understand_Kerberos.pdf)
 * [Video (Spanish)](https://youtu.be/5uhk2PKkDdw)
 * [Video (English) (WIP)]
