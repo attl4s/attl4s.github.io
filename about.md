@@ -10,5 +10,7 @@ Daniel has been pretty involved in the security community. He is a regular speak
 In addition, Daniel holds several certifications from Offensive Security, Pentester Academy and Zero-Point Security, mainly focused on enterprise security and Red Team operations.
      
 **Twitter:** [@danilj94](https://twitter.com/DaniLJ94)
+  
 **LinkedIn:** [danilj94](https://www.linkedin.com/in/danilj94/)
-**YouTube:** [ATTL4S](https://www.youtube.com/attl4s
+   
+**YouTube:** [ATTL4S](https://www.youtube.com/attl4s)
