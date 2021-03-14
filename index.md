@@ -26,4 +26,4 @@ title: Blog
 **You do (not) Understand Kerberos**
 * [Slides](https://attl4s.github.io/assets/pdf/You_do_(not)_Understand_Kerberos.pdf)
 * [Video (Spanish)](https://youtu.be/5uhk2PKkDdw)
-* [Video (English) (WIP)]
+* [Video (English)](https://youtu.be/4LDpb1R3Ghg)
