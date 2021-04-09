@@ -7,6 +7,24 @@ title: Blog
 ---
 &nbsp;  
 
+**You do (not) Understand Kerberos Delegation**
+* [WIP - Slides]
+* [WIP - Video (Spanish)]
+* [WIP - Video (English)]
+
+**You do (not) Understand Kerberos**
+* [Slides](https://attl4s.github.io/assets/pdf/You_do_(not)_Understand_Kerberos.pdf)
+* [Video (Spanish)](https://youtu.be/5uhk2PKkDdw)
+* [Video (English)](https://youtu.be/4LDpb1R3Ghg)
+
+**Understanding and Hiding your Operations**
+* [Slides](https://attl4s.github.io/assets/pdf/UNDERSTANDING_AND_HIDING_YOUR_OPERATIONS.pdf)
+* [Video (English)](https://vimeo.com/502507556)
+
+**Understanding Active Directory Security Descriptors**
+* [Slides](https://attl4s.github.io/assets/pdf/Understanding_Active_Directory_Security_Descriptors.pdf)
+* [Video (Spanish)](https://www.youtube.com/watch?v=F-aeOLQd6E4)
+
 **Understanding Active Directory Enumeration**
 * [Slides](https://attl4s.github.io/assets/pdf/Understanding_Active_Directory_Enumeration.pdf)
 * [Video (Spanish)](https://www.youtube.com/watch?v=nTeJcoTReqk)
@@ -15,15 +33,3 @@ title: Blog
 * [Slides](https://attl4s.github.io/assets/pdf/Understanding_Windows_Lateral_Movements.pdf)
 * [Video (Spanish)](https://www.youtube.com/watch?v=a3qFsc9ApNs)
 
-**Understanding Active Directory Security Descriptors**
-* [Slides](https://attl4s.github.io/assets/pdf/Understanding_Active_Directory_Security_Descriptors.pdf)
-* [Video (Spanish)](https://www.youtube.com/watch?v=F-aeOLQd6E4)
-
-**Understanding and Hiding your Operations**
-* [Slides](https://attl4s.github.io/assets/pdf/UNDERSTANDING_AND_HIDING_YOUR_OPERATIONS.pdf)
-* [Video (English)](https://vimeo.com/502507556)
-
-**You do (not) Understand Kerberos**
-* [Slides](https://attl4s.github.io/assets/pdf/You_do_(not)_Understand_Kerberos.pdf)
-* [Video (Spanish)](https://youtu.be/5uhk2PKkDdw)
-* [Video (English)](https://youtu.be/4LDpb1R3Ghg)
