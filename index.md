@@ -8,9 +8,8 @@ title: Blog
 &nbsp;  
 
 **You do (not) Understand Kerberos Delegation**
-* [WIP - Slides]
-* [WIP - Video (Spanish)]
-* [WIP - Video (English)]
+* Slides (WIP)
+* Videos (WIP)
 
 **You do (not) Understand Kerberos**
 * [Slides](https://attl4s.github.io/assets/pdf/You_do_(not)_Understand_Kerberos.pdf)
