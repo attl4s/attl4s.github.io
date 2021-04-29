@@ -8,8 +8,9 @@ title: Blog
 &nbsp;  
 
 **You do (not) Understand Kerberos Delegation**
-* Slides (WIP)
-* Videos (WIP)
+* [Slides](https://attl4s.github.io/assets/pdf/You_do_(not)_Understand_Kerberos_Delegation.pdf)
+* [Videos (Spanish)](https://www.youtube.com/playlist?list=PLwb6et4T42wyK7dfFkKmOP3Tw2ENNkGuY)
+* [Videos (English)](https://www.youtube.com/playlist?list=PLwb6et4T42wwlxffjq9-F3KVDNDi9gQFs)
 
 **You do (not) Understand Kerberos**
 * [Slides](https://attl4s.github.io/assets/pdf/You_do_(not)_Understand_Kerberos.pdf)
