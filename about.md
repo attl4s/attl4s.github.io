@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Daniel López Jiménez and I am a Senior Security Consultant at the company NCC Group.
+My name is Daniel López Jiménez and I am a Senior Security Consultant working at the company NCC Group.
 
 I have been working in the security field since 2018. During this time, I have collaborated and offered security services to multiple clients around the world, understanding their needs and their complex environments so as to give them appropriate recommendations and enhance their overall security posture against threats.
 
