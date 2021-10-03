@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Daniel López Jiménez and I am a Senior Security Consultant working at the company NCC Group.
 
-I have been working in the security field since 2018. During this time, I have collaborated and offered security services to multiple clients around the world, understanding their needs and their complex environments so as to give them appropriate recommendations and enhance their overall security posture against threats.
+I have been working in the security field since 2018. During this time, I have collaborated and offered security services to multiple clients around the world, understanding their needs and their complex environments, in order to give them appropriate recommendations and enhance their overall security posture against threats.
 
 In terms of my areas of expertise, I would highlight infrastructure security, identity management technologies, cloud platforms, and Merge & Acquisitions (M&A). Particularly worthy of mention is my knowledge about Active Directory, technology on which I have been delivering Masterclasses since 2019 in a cybersecurity master's degree at Universidad Castilla La-Mancha (Spain).
 
