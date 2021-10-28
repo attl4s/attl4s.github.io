@@ -20,6 +20,7 @@ title: Blog
 **Understanding and Hiding your Operations**
 * [Slides](https://attl4s.github.io/assets/pdf/UNDERSTANDING_AND_HIDING_YOUR_OPERATIONS.pdf)
 * [Video (English)](https://vimeo.com/502507556)
+* [Video (Spanish)](https://www.youtube.com/watch?v=HRrHFmqMGz4&t=4079s)
 
 **Understanding Active Directory Security Descriptors**
 * [Slides](https://attl4s.github.io/assets/pdf/Understanding_Active_Directory_Security_Descriptors.pdf)
