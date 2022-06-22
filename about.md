@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-My name is Daniel López Jiménez and I am a Senior Security Consultant working at the company NCC Group.
+Daniel has been working on the security field since he finished his studies back in 2018, particularly focusing his efforts and motivation towards enterprise security and research (on-premise infrastructures, cloud platforms, identity management technologies and adversary simulation assessments).
 
-I have been working in the security field since 2018. During this time, I have collaborated and offered security services to multiple clients around the world, understanding their needs and their complex environments, in order to give them appropriate recommendations and enhance their overall security posture against threats.
+Daniel has always been very interested in the world of Red Teaming and Blue Teaming, due to the importance they have in today's enterprise security. To be proficient in these areas, it is necessary to understand complex matters like how organizations normally work, how threat actors carry out their attacks, and how security teams protect and respond against these threats. All these topics are of great interest to him.
 
-In terms of my areas of expertise, I would highlight infrastructure security, identity management technologies, cloud platforms, and Merge & Acquisitions (M&A). Particularly worthy of mention is my knowledge about Active Directory, technology on which I have been delivering Masterclasses since 2019 in a cybersecurity master's degree at Universidad Castilla La-Mancha (Spain).
+In his spare time, Daniel has been researching, studying and presenting on topics such as Active Directory, Windows, Operational Security, and privileged access security. He is a regular speaker in security conferences in Spain like Navaja Negra, nO Con Name and more, and he is an associate teacher in Castilla-La Mancha University, teaching about Active Directory Security.
 
-In my spare time, I enjoy researching, studying and presenting topics such as Active Directory, Windows, threat simulation and enterprise security. I am a regular speaker in security conferences in Spain like Navaja Negra, H-c0n, nO Con Name and more. In addition, I hold several certifications from Offensive Security, Zero-Point Security and Pentester Academy mainly focused on enteprise security and threat simulation.
+In addition, Daniel holds several certifications from Offensive Security, Zero-Point Security and Pentester Academy mainly focused on Infrastructure Security and Red Team operations.
 
 If you are interested in knowing more about me, please find below links to my social networks.
     
