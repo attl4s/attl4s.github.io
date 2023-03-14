@@ -7,7 +7,7 @@ title: Blog
 ---
 &nbsp;  
 
-**Understanding a Payload's Life - Featuring Meterpreter & Other Guests**
+**Understanding a Payload's Life (featuring Meterpreter & other guests)**
 * [Slides](https://attl4s.github.io/assets/pdf/Understanding_a_Payloads_Life.pdf)
 
 **You do (not) Understand Kerberos Delegation**
