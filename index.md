@@ -9,11 +9,11 @@ title: Blog
 
 **(April 2023) Understanding Windows Lateral Movements Remake!**
 * [Slides](https://attl4s.github.io/assets/pdf/Understanding_Windows_Lateral_Movements_2023.pdf)
-* [Videos (WIP)]
+* Videos (WIP)
 
 **(March 2023) Understanding a Payload's Life (featuring Meterpreter & other guests)**
 * [Slides](https://attl4s.github.io/assets/pdf/Understanding_a_Payloads_Life.pdf)
-* [Videos (WIP)]
+* Videos (WIP]
 
 **(April 2021) You do (not) Understand Kerberos Delegation**
 * [Slides](https://attl4s.github.io/assets/pdf/You_do_(not)_Understand_Kerberos_Delegation.pdf)
