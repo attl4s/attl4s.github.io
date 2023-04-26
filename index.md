@@ -17,8 +17,8 @@ title: Blog
 
 **(April 2021) You do (not) Understand Kerberos Delegation**
 * [Slides](https://attl4s.github.io/assets/pdf/You_do_(not)_Understand_Kerberos_Delegation.pdf)
-* [Video (Spanish)](https://www.youtube.com/playlist?list=PLwb6et4T42wyK7dfFkKmOP3Tw2ENNkGuY)
-* [Video (English)](https://www.youtube.com/playlist?list=PLwb6et4T42wwlxffjq9-F3KVDNDi9gQFs)
+* [Video (Spanish)](https://www.youtube.com/playlist?list=PLwb6et4T42wzjNipgnkJdYXTooLrJyvj7)
+* [Video (English)](https://www.youtube.com/playlist?list=PLwb6et4T42wyA0rhT0zFownoA9N8-6t1K)
 
 **(March 2021) You do (not) Understand Kerberos**
 * [Slides](https://attl4s.github.io/assets/pdf/You_do_(not)_Understand_Kerberos.pdf)
