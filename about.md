@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Daniel has been working on the IT security field since 2018, particularly focusing his efforts on enterprise security and advanced persistent threat simulation. He has experience with topics like large on-premises infrastructures, cloud platforms, identity technologies, evading network/endpoint detection and response capability, and general security consultancy.
+Daniel has been working in the IT security field since 2018, particularly focusing his efforts on enterprise security and advanced persistent threat simulation. He has experience with topics like large on-premises infrastructures, cloud platforms, identity technologies, evading network/endpoint detection and response capability, and general security consultancy.
 
 If you are interested in knowing more about me, find links to my social networks below:
     
