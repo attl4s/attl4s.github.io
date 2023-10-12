@@ -13,7 +13,7 @@ title: Blog
 
 **(March 2023) Understanding a Payload's Life (featuring Meterpreter & other guests)**
 * [Slides](https://attl4s.github.io/assets/pdf/Understanding_a_Payloads_Life.pdf)
-* Videos (WIP]
+* [Videos (English)](https://youtube.com/playlist?list=PLwb6et4T42ww1YrYGuX0KN71cw3ejG5IO&si=UeB_rKydj3BXaEL7)
 
 **(April 2021) You do (not) Understand Kerberos Delegation**
 * [Slides](https://attl4s.github.io/assets/pdf/You_do_(not)_Understand_Kerberos_Delegation.pdf)
