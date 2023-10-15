@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Daniel has been working in the IT security field since 2018, particularly focusing his efforts on enterprise security and advanced persistent threat simulation. He has experience with topics like large on-premises infrastructures, cloud platforms, identity technologies, evading network/endpoint detection and response capability, and general security consultancy.
+I've been immersed in the world of offensive security since 2018, with a strong focus on large corporate infraestructures, identity technologies (like Active Directory or Azure AD/Entra ID) and evading network/endpoint detection and response solutions. This background enabled me to transition into my current role, dedicated exclusively to threat simulation / red teaming. I also enjoy sharing my learnings through presentations.
 
-If you are interested in knowing more about me, find links to my social networks below:
+If you are interested in knowing more about me, see the links below:
     
 **Twitter:** [@danilj94](https://twitter.com/DaniLJ94)
   
